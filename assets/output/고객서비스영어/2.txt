@@ -1,0 +1,90 @@
+1. 고객 응대 상황별 공손한 영어 표현  
+   - 도움 제안: “May I help you with your baggage?” ‑ help + 목적어 + with + 사물 구조로 공손히 지원 의사를 밝힘.  
+   - 주문 권유: “Would you care for a drink?” → would you care for ~ ? 는 선택·거절을 존중하는 정중한 제안.  
+   - 추가 주문: “I’d like to have another drink.” / “I’ll stick to my usual.” 로 ‘한 잔 더’ 또는 ‘늘 마시던 것’ 요청.  
+   - 스케줄 확인: “Are you free this evening?”으로 약속 가능 여부 파악.  
+   - 투숙 상태 확인: “Are you leaving our hotel?” ‑ 현재진행형으로 예정‧확정된 이동을 묻기.  
+   - 통화 연결 불가 안내: “I’m afraid he is on the phone right now.” → 부정적 정보 전달 시 I’m afraid 완충.  
+   - 사과·안전 확인: 충돌 후 “I’m very sorry. I do hope you are not hurt.”  
+   관련 문제:  
+   - 2016년 07월, Question_id: 52  
+   - 2016년 07월, Question_id: 53  
+   - 2016년 04월, Question_id: 51  
+   - 2016년 04월, Question_id: 52  
+   - 2016년 04월, Question_id: 53  
+   - 2016년 01월, Question_id: 53  
+   - 2016년 01월, Question_id: 55  
+   - 2016년 01월, Question_id: 57  
+---
+2. 예약 현황·계산 방식 안내 표현  
+   - 예약 마감: “We are fully booked on May 5th.” → fully booked + 날짜/기간 으로 ‘빈자리가 전혀 없음’ 명확히 전달.  
+   - 계산 방식 구분:  
+     • “It’s on me.” / “Let me get this.” / “I’ll pick up the check.” = 내가 계산.  
+     • “Let’s go Dutch.” = 각자 계산.  
+   관련 문제:  
+   - 2016년 07월, Question_id: 51  
+   - 2016년 07월, Question_id: 58  
+---
+3. 고객서비스 영어 핵심 문법 포인트  
+   - help + 사람 + with + 사물: May I help you with your baggage? (you를 help 바로 뒤에 둔다)  
+   - keep + 목적어 + 현재분사: Sorry to have kept you waiting. → ‘~을 …한 상태로 두다’.  
+   - should + 동사원형/be + 형용사: You should be kind to guests.  
+   - be + 동사-ing로 미래 예정 표현: Are you leaving our hotel?  
+   - 병렬 동사 사용: supervise and handle ‑ 의미·형태 일치가 중요.  
+   관련 문제:  
+   - 2016년 07월, Question_id: 52  
+   - 2016년 04월, Question_id: 54  
+   - 2016년 01월, Question_id: 51  
+   - 2016년 04월, Question_id: 51  
+   - 2016년 07월, Question_id: 59  
+---
+4. 와인 감상·서비스 기본  
+   - 감상 3요소: Color(시각) ‑ Aroma/Nose(후각) ‑ Taste(미각). Touch는 포함되지 않는다.  
+   - 기본 용어  
+     • Balance: 산도·당도·탄닌·알코올의 조화.  
+     • Nose: 와인의 향.  
+     • Body: 질감·무게감.  
+     • Dry: 잔당이 거의 없어서 단맛이 느껴지지 않는 상태.  
+   - 서비스 원칙  
+     • 적정 온도: 레드 16-18 ℃ / 화이트 8-12 ℃.  
+     • 잔 채우기: 1/3–1/2 수준으로 향 발산 공간 확보.  
+     • 라벨을 손님에게 보여 확인받는다.  
+   - 특별 와인  
+     • Ice Wine: ‑8 ℃ 이하에서 얼린 포도를 즉시 압착해 만든 고당도 디저트 와인.  
+     • Beaujolais Nouveau: 그해 가메(Gamay) 포도로 만든 신주, 매년 11월 셋째 목요일 출시.  
+   관련 문제:  
+   - 2016년 07월, Question_id: 55  
+   - 2016년 07월, Question_id: 56  
+   - 2016년 04월, Question_id: 57  
+   - 2016년 01월, Question_id: 52  
+   - 2016년 04월, Question_id: 60  
+---
+5. 증류주·리큐어의 원료와 분류  
+   - Tequila: 블루 아가베 발효주를 증류한 멕시코 증류주.  
+   - Rum: 사탕수수 당밀/주스 증류주로 열대 칵테일의 대표 베이스.  
+   - Whiskey: 보리·옥수수 등 곡물 증류 후 오크 숙성.  
+   - Gin: 중성 증류주에 주니퍼 베리 등 보타니컬을 가향.  
+   - Calvados: 사과(배) 사이더를 증류한 브랜디 → 포도 원료 아님.  
+   - Cointreau: 오렌지 껍질 향의 트리플 섹 리큐어 → 가당·가향으로 ‘순수 증류주’에서 제외.  
+   - Amaretto: 달콤한 아몬드 풍미의 이탈리아 리큐어.  
+   관련 문제:  
+   - 2016년 07월, Question_id: 54  
+   - 2016년 04월, Question_id: 56  
+   - 2016년 04월, Question_id: 58  
+   - 2016년 01월, Question_id: 56  
+   - 2016년 01월, Question_id: 59  
+   - 2016년 01월, Question_id: 60  
+   - 2016년 04월, Question_id: 59  
+---
+6. 칵테일 유형·조주 기법과 대표 레시피  
+   - Stirring 기법: Mixing Glass + Bar Spoon + Strainer 사용, Shaker는 해당 없음.  
+   - Aperitif(식전) vs Digestif(식후)  
+     • Dry Martini, Kir, Campari Orange = 식전.  
+     • Grasshopper = 크림·민트 리큐어 기반 식후용.  
+   - Layered Cocktail(Pousse café): 비중 차를 이용해 리큐어를 층으로 쌓음.  
+   - 대표 레시피 ‑ Pink Lady: Dry Gin + Egg White + Grenadine (+ Lemon juice) → 크리미하고 연분홍 색.  
+   관련 문제:  
+   - 2016년 07월, Question_id: 57  
+   - 2016년 07월, Question_id: 60  
+   - 2016년 04월, Question_id: 55  
+   - 2016년 01월, Question_id: 54

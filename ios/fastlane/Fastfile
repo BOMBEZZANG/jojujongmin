@@ -1,0 +1,27 @@
+default_platform(:ios)
+platform :ios do
+  desc "Build and upload to App Store Connect"
+  lane :release do
+    sh "flutter pub get"
+    sh "flutter clean"
+    sh "flutter build ios --release --no-codesign"
+    gym(
+      workspace: "Runner.xcworkspace",
+      scheme: "Runner",
+      export_method: "app-store",
+      output_directory: "./build/ios/iphoneos",
+      archive_path: "./build/ios/archive",
+      output_name: "Runner.ipa",
+      clean: true,
+      silent: false,
+      xcargs: "-allowProvisioningUpdates"
+    )
+    deliver(
+      skip_screenshots: true,
+      skip_metadata: true,
+      submit_for_review: false,
+      force: true,
+      username: "bombezzang2607@gmail.com"
+    )
+  end
+end
